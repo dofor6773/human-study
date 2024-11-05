@@ -1,0 +1,15 @@
+설치 프로그램들
+1. 디스코드
+2. 카카오톡
+(필수)
+3. 반디집
+4. notepad++ - 텍스트 편집 프로그램
+5. 크롬
+6. baretail - 실시간tail 프로그램
+7. everything - 파일 검색 프로그램
+8. chrome 원격 데스크톱
+(필수)
+9. 비주얼 스튜디오 2022
+(필수)
+10. 비주얼 스튜디오 code
+11. (optional) notion, obsidian
