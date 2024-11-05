@@ -1,1 +1,22 @@
-git 공부
+1. dog-KJH: 김진혁
+2. JaehunKim-A :김재훈
+3. Tamiscola: 박태민
+4. sunwoowoo: 김선우
+5. forestcrab: 구민우
+6. hongwongi: 홍원기
+7. Yudir-98: 전유범
+8. lehoyeon: 이호연
+9. hansojoong: 한소중
+10. kimdahan95: 김다한
+11. maengsky: 맹하늘
+12. rywls: 구교진
+13. ohhyunmin: 오현민
+14. yunkyeng: 심윤경
+15. 이동혁: 이동혁
+16. yhkim002: 김영희
+17. : 김성운
+18. : 김범수
+19. : 정지윤
+20. : 이재우
+21. : 이혜진
+22. : 강국현
