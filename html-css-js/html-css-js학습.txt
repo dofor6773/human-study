@@ -21,4 +21,4 @@ VS Code Extension설치
   - Live Server
   - Prettier - Code formatter
   - Rainbow Brackets, indent-rainbow
-  - 한국어(옵션) 
+  - 한국어(옵션)
