@@ -22,8 +22,3 @@ VS Code Extension설치
   - Prettier - Code formatter
   - Rainbow Brackets, indent-rainbow
   - 한국어(옵션) 
-
-<<<<<<< HEAD
-=======
-
->>>>>>> eb60ff3 (html/css/js)
