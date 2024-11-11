@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    /*
+     * font-family -> 글꼴 적용하는 css  ex) font-family: 돋움, "맑은 고딕"
+     * font-size -> 폰트 크기 css  ex) font-size: 30px, 50%
+     * font-style -> 폰트 스타일 css ex) font-style: normal italic
+     * font-weight -> 폰트 굵기 css ex) font-weight: 100 200 ~ 900 bold
+    */
+    h1 {
+      font-size: 120px;
+    }
+    p {
+      font-size:  20px;
+    }
+    .accent {
+      font-weight: bold;
+      font-style: italic;
+    }
+    .italic {
+      font-style: italic;
+    }
+    /* h1레드향에 'id'를 부여해서 font-weight값을 500으로 설정 */
+    #red {
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="red">레드향</h1>
+  <p>껍질에 붉은 빛이 <span class="accent">레드향</span></p>
+  <p class="italic">일반 귤보다 2~3배 크고</p>
+</body>
+</html>
