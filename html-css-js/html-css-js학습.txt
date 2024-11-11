@@ -23,4 +23,3 @@ VS Code Extension설치
   - Rainbow Brackets, indent-rainbow
   - 한국어(옵션) 
 
-
