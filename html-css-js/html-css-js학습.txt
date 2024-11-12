@@ -22,3 +22,4 @@ VS Code Extension설치
   - Prettier - Code formatter
   - Rainbow Brackets, indent-rainbow
   - 한국어(옵션)
+ 
