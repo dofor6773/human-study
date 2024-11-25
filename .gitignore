@@ -2,6 +2,12 @@
 **/obj/
 .vs/
 .vs
+.vscode/
 
-.class
-.exe
+*.class
+*.exe
+*.msi
+*.db
+
+**/eclipse-jee-2022-09-R-win32-x86_64/
+**/jdk-21.0.2/
