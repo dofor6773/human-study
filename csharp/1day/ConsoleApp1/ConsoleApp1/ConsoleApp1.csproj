@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="D:\dofor\csharp\1day\Program.cs" Link="Program.cs" />
-  </ItemGroup>
-
 </Project>
