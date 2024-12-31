@@ -1,6 +1,6 @@
 /* style2.css를 가져다 사용 */
-/* './' -> 현재 디렉토리 */
-@import url(./style2.css);
+/* './' -> 현재 디렉토릴 */
+@import url("./style2.css");
 
 h2 {
   color: red;
