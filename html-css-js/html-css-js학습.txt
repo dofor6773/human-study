@@ -3,7 +3,7 @@
 2. CSS
 3. JAVASCRIPT
 4. 프로젝트 
- 
+
 무료 동영상 강의: https://www.youtube.com/watch?v=7QyTYl-9WcE&list=PLG7te9eYUi7uqE5hxs-XUz6WaxXU44Rvo
 책 관련 실습 코드: https://github.com/funnycom/doit-hcj-new
 구글드라이브 주소: https://drive.google.com/file/d/1JHMc7K9MeBqbKDkAvYS1u4_Lwb5slisW/view
@@ -21,5 +21,6 @@ VS Code Extension설치
   - Live Server
   - Prettier - Code formatter
   - Rainbow Brackets, indent-rainbow
-  - 한국어(옵션)
- 
+  - 한국어(옵션) 
+
+
